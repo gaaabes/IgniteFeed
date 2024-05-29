@@ -1,7 +1,7 @@
 <h1 align="center">Ignite Feed</h1>
 
 <p align= "center">
-  <img alt="projeto ignite feed" src="./github/capa-ignite-feed.png">
+  <img alt="projeto ignite feed" src="./src/github/capa-ignite-feed.png">
 </p>
 
 ## 🚀 Tecnologias
